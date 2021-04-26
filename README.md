@@ -6,4 +6,4 @@ Instructions:
 Left click to zoom in and right click to zoom out. New images will take a few seconds to load.  
   
 Images:  
-![image](https://drive.google.com/drive/folders/1IqHO3m0j1Wz4GP9-7PvHLUumL0_w18gl?usp=sharing)
+![image](https://drive.google.com/file/d/1EJ8BZBLsM2upv5z71wQ6SlWFcEgRrlsP/view?usp=sharing)
